@@ -1,0 +1,22 @@
+.cursor-glow{
+
+position:fixed;
+
+width: 100px;
+height: 100px;
+filter: blur(40px);
+background: rgba(59, 130, 246, 0.3);
+
+}
+@media(max-width:768px){
+
+.about-content,
+.projects-grid,
+.skills-grid,
+.contact-container{
+
+grid-template-columns:1fr;
+
+}
+
+}
