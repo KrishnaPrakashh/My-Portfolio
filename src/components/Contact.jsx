@@ -21,7 +21,7 @@ function Contact() {
         <div className="contact-card">
           <FaEnvelope />
           <h3>Email</h3>
-          <a href="mailto:yourmail@gmail.com">
+          <a href="mailto:krishnaprakashalpy@gmail.com">
            krishnaprakashalpy@gmail.com
           </a>
         </div>
