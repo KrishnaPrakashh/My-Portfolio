@@ -27,7 +27,7 @@ function Education() {
             <span>2023 - 2027</span>
 
             <p>
-              <h4>CGPA : 7.3</h4>
+              <h4>CGPA : 7.78</h4>
               Currently pursuing a Bachelor's degree in Computer Science with
               a focus on software development, data structures, web
               technologies, and cybersecurity.
